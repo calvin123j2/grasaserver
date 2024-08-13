@@ -1,1 +1,435 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589486763 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589501856 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589504918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589520009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589523072 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589538158 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589541217 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589544273 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589559378 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589562434 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589577545 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589580601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589595693 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589610777 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589613842 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589628926 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589631984 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589647079 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589650131 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589653189 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589668269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589671322 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589686452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589689517 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589704600 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589719690 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589722759 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589737852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589740914 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589756009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589759064 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589762118 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589777212 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589792309 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589795372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589810468 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589813530 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589828613 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589831673 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589846782 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589849845 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589852900 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589855956 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589871048 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589874104 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589889188 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589892242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589907364 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589910420 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589913487 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589928575 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589931639 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589946719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589949771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589952840 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589967926 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589970982 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723589986075 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589989127 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723589992190 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723590007293 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723590010355 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723590013411 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723590028495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723590031548 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723590046637 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723590049691 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mature-gain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
